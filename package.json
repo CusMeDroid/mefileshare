@@ -1,0 +1,16 @@
+{
+  "name": "mefileshare",
+  "version": "1.0.0",
+  "description": "mefileshare is a tool to easily move data from computer to phone.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["mefileshare", "meshare", "fileshare", "cusmedroid", "iyortml"],
+  "author": "CusMeDroid",
+  "license": "MIT License",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4"
+  }
+}
